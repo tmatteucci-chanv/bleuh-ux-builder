@@ -1,0 +1,17 @@
+{
+    "name": "bleuh/bleuh",
+    "description": "Custom plugin for bleuh.co",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Luc Laverdure",
+            "email": "contact@luclaverdure.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29",
+        "mpdf/mpdf": "^v8.2",
+        "box/spout": "^v3.3",
+        "google/apiclient": "^v2.15"
+    }
+}

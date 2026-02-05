@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.295" height="15" viewBox="0 0 18.295 15">
+  <g id="Groupe_1395" data-name="Groupe 1395" transform="translate(-271.425 -215)">
+    <line id="Ligne_121" data-name="Ligne 121" x2="18.295" transform="translate(271.425 217.743)" fill="none" stroke="#92c0e9" stroke-width="1.5"/>
+    <line id="Ligne_124" data-name="Ligne 124" x2="18.295" transform="translate(271.425 222.634)" fill="none" stroke="#92c0e9" stroke-width="1.5"/>
+    <line id="Ligne_125" data-name="Ligne 125" x2="18.295" transform="translate(271.425 227.524)" fill="none" stroke="#92c0e9" stroke-width="1.5"/>
+    <g id="Ellipse_104" data-name="Ellipse 104" transform="translate(273 215)" fill="#0533a1" stroke="#92c0e9" stroke-width="1.5">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="1.75" fill="none"/>
+    </g>
+    <g id="Ellipse_105" data-name="Ellipse 105" transform="translate(283 220)" fill="#0533a1" stroke="#92c0e9" stroke-width="1.5">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="1.75" fill="none"/>
+    </g>
+    <g id="Ellipse_106" data-name="Ellipse 106" transform="translate(277 225)" fill="#0533a1" stroke="#92c0e9" stroke-width="1.5">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="1.75" fill="none"/>
+    </g>
+  </g>
+</svg>
